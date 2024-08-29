@@ -3,7 +3,7 @@
     "name": "Number_Guessing_Game",
     "slug": "Number_Guessing_Game",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "orientation": "default",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
